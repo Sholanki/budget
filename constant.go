@@ -3,7 +3,7 @@ package budget
 import (
 	"time"
 
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/tracer"
 )
 
 type ConstantConfig struct {

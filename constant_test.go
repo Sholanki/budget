@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/tracer"
 )
 
 func Test_Budget_Constant_Errors(t *testing.T) {

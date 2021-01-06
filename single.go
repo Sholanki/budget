@@ -1,7 +1,7 @@
 package budget
 
 import (
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/tracer"
 )
 
 // Single executes the given operation exactly once, regardless if it fails or

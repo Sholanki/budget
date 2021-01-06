@@ -3,7 +3,7 @@ package budget
 import (
 	"errors"
 
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/tracer"
 )
 
 var invalidConfigError = &tracer.Error{
