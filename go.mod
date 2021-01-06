@@ -1,4 +1,4 @@
-module github.com/xh3b4sd/budget
+module github.com/Sholanki/budget
 
 go 1.15
 
